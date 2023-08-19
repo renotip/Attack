@@ -18,4 +18,8 @@ if renotip=='1':
     print('DDOS BOSHLANDI')
 if renotip=='2':
 	input('Chat Userini kiriting --> ')
-	print('Qabul qilindi Hujum boshlandi!!!')    
+	print('Qabul qilindi Hujum boshlandi!!!') 
+
+if renotip=='3':
+	print('1-Dasturchi @mr_renotip ') 
+	print('2-Dasturchi @virual_programmer_sh')

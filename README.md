@@ -1,1 +1,1 @@
-# Attack chopishda ehtiyot bolamiz
+# Atak chopishda ehtiyot bolamiz
